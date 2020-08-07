@@ -9,34 +9,34 @@
         <category/>
         <copied_from/>
         <copied_from_name/>
-        <description>Get geographic data from a public IP address.</description>
+        <description>Get  geographic data from a public IP address</description>
         <ih_action>false</ih_action>
-        <internal_name>get_geograhic_data_from_ip</internal_name>
+        <internal_name>get_geographic_data_from_ip</internal_name>
         <label_cache/>
         <latest_snapshot/>
         <master_snapshot/>
-        <name>Get Geograhic Data from IP</name>
+        <name>Get Geographic Data from IP</name>
         <natlang/>
         <outputs/>
         <state>draft</state>
         <sys_class_name>sys_hub_action_type_definition</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-08-06 13:05:26</sys_created_on>
+        <sys_created_on>2020-08-07 16:45:31</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>c3208998dbea1050dfd0294648961974</sys_id>
+        <sys_id>702c7ee4dbaa5050dfd02946489619b9</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Get Geograhic Data from IP</sys_name>
+        <sys_name>Get Geographic Data from IP</sys_name>
         <sys_overrides/>
         <sys_package display_value="IPinfo Spoke" source="x_475676_ipinfo_sp">d4ec3450dbea1050dfd0294648961921</sys_package>
         <sys_policy/>
         <sys_scope display_value="IPinfo Spoke">d4ec3450dbea1050dfd0294648961921</sys_scope>
-        <sys_update_name>sys_hub_action_type_definition_c3208998dbea1050dfd0294648961974</sys_update_name>
+        <sys_update_name>sys_hub_action_type_definition_702c7ee4dbaa5050dfd02946489619b9</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-06 13:05:26</sys_updated_on>
+        <sys_updated_on>2020-08-07 16:45:31</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_definition>
-    <sys_translated_text action="delete_multiple" query="documentkey=c3208998dbea1050dfd0294648961974"/>
-    <sys_variable_value action="delete_multiple" query="document_key=c3208998dbea1050dfd0294648961974"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=702c7ee4dbaa5050dfd02946489619b9"/>
+    <sys_variable_value action="delete_multiple" query="document_key=702c7ee4dbaa5050dfd02946489619b9"/>
 </record_update>
